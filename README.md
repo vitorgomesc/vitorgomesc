@@ -25,7 +25,8 @@ Busco criar projetos reais e soluções criativas!
 | 📱 **ClikFood** | 🌐 **Inovix - Empresa Tech** |
 |-----------------|-----------------------------|
 | Aplicativo de delivery inspirado no Deliveroo. | Agência de tecnologia e marketing digital. |
-| ![ClikFood](./screenshots/login.png) | ![Inovix](https://github.com/vitorgomesc/inovix_site/raw/main/screenshot.png) |
+| <img src="./screenshots/login.png" alt="ClikFood" width="200"/>
+ | ![Inovix](https://github.com/vitorgomesc/inovix_site/raw/main/screenshot.png) |
 | [🔗 Ver projeto](https://github.com/vitorgomesc/clikfood_app) | [🔗 Ver projeto](https://github.com/vitorgomesc/inovix_site) |
 
 ---
