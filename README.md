@@ -1,3 +1,6 @@
+<!-- Banner Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Vitor%20Hugo%20Gomes%20Carvalho&fontColor=ffffff&fontSize=35&animation=fadeIn" />
+
 # 👋 Olá! Eu sou o Vitor Hugo
 
 Sou **desenvolvedor web em formação** e estou em constante evolução para me tornar **Full Stack**.  
@@ -17,13 +20,40 @@ Busco criar projetos reais e soluções criativas!
 
 ---
 
+## 📌 Projetos em Destaque
+
+| 📱 **ClikFood** | 🌐 **Inovix - Empresa Tech** |
+|-----------------|-----------------------------|
+| Aplicativo de delivery inspirado no Deliveroo. | Agência de tecnologia e marketing digital. |
+| ![ClikFood](https://github.com/vitorgomesc/clikfood_app/raw/main/screenshots/login.png) | ![Inovix](https://github.com/vitorgomesc/inovix_site/raw/main/screenshot.png) |
+| [🔗 Ver projeto](https://github.com/vitorgomesc/clikfood_app) | [🔗 Ver projeto](https://github.com/vitorgomesc/inovix_site) |
+
+---
+
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorgomesc&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgomesc&layout=compact&theme=tokyonight)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorgomesc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgomesc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shi)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-gomes-carvalho-711111262/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorgomesc.github.io/meu-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorgomesc)
+
+---
+
+### 👀 Visitantes do perfil
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=vitorgomesc&color=blue)
+
+---
+
+<!-- Rodapé animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
