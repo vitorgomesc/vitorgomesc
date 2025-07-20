@@ -20,13 +20,6 @@ Busco criar projetos reais e soluções criativas!
 
 ---
 
-## 📌 Projetos em Destaque
-
-| 📱 **ClikFood** | 
-|-----------------|
-| Aplicativo de delivery inspirado no Deliveroo. | 
-| <img src="./screenshots/login.png" alt="ClikFood" width="200"/> |
-| [🔗 Ver projeto](https://github.com/vitorgomesc/clikfood_app) | 
 
 ---
 
